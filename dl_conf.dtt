@@ -1,0 +1,3 @@
+[download]
+dir = /GCI/tcga_slides
+n_processes = 6
